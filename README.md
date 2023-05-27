@@ -1,5 +1,5 @@
 # Corners_basic4SC
-the old 'Corners' app made for monome grids by tehn long ago in Max/MSP/Javascript, here done in SuperCollider
+the old 'Corners' app(made for monome grids by tehn long ago in Max/MSP/Javascript), remade here in SuperCollider.
 requirements:
 see 'Grid Studies': https://monome.org/docs/grid/studies/sc/
 for the required 'MonomeSC' library
